@@ -1,0 +1,11 @@
+# Java PDF RAG application
+langchain
+langchain-core
+langchain-community
+langchain-text-splitters
+langchain-qdrant
+langchain-groq
+qdrant-client
+fastembed
+python-dotenv
+pypdf
